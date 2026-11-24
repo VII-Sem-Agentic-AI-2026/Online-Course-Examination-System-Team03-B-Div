@@ -1,0 +1,30 @@
+# AI and Agent Framework
+mcp==2.2.0
+langgraph==1.2.12
+langchain
+langchain-core
+
+# Google Gemini
+google-genai
+
+# Data Validation
+pydantic
+typing-extensions
+
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+# PostgreSQL and ORM
+SQLAlchemy
+psycopg[binary]
+
+# Database Migrations
+alembic
+
+# Document Processing
+pymupdf
+python-docx
+python-pptx
